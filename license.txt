@@ -1,0 +1,11 @@
+Model Information:
+* title:	Cyberpunk 2077 - Gun Archangel
+* source:	https://sketchfab.com/3d-models/cyberpunk-2077-gun-archangel-10633b66571946e098bcb57ffba39d47
+* author:	Belzar Sirus (https://sketchfab.com/belzar.sirus)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Cyberpunk 2077 - Gun Archangel" (https://sketchfab.com/3d-models/cyberpunk-2077-gun-archangel-10633b66571946e098bcb57ffba39d47) by Belzar Sirus (https://sketchfab.com/belzar.sirus) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
